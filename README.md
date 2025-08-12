@@ -1,2 +1,2 @@
 # devops1
-creating first github repo on devops technology.
+Creating the first GitHub repo on DevOps technology.
